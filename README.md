@@ -10,10 +10,11 @@
 ### 🏗️ atualmente trabalhando em:
 
 * **[lógica & base back-end](https://github.com/davicarb/console.logic.chsarp)**
-    * exercícios de lógica no console usando dotnet para fortalecimento da base lógica e teórica back-end.
+    * exercícios de lógica no console usando dotnet para fortalecimento da base lógica e teórica back-end (enunciados gerados por IA, projetos produzidos por mim).
 * **[dotnet fullstack evolution](https://github.com/davicarb/dotnet-fullstack-evolution)**
     * projetos full-stack dotnet usando winforms e um pouco de front-end.
-
+* **[exercicios em csharp no leetcode](https://github.com/davicarb/leetcode-chsarp)**
+    * exercicios de lógica em csharp provenientes do site leetcode.
 ---
 
 ### 📚 teoria & prática

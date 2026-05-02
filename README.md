@@ -24,4 +24,5 @@
 ---
 
 ### 📖 metodologia de aprendizado // learning method
-* project based learning.
+* project based learning (base de projetos e sistemas automatizados)
+* leetcode (base algorítmica e lógica computacional)

@@ -1,4 +1,4 @@
-# hi there, i'm a dotnet developer! // olá, sou um desenvolvedor dotnet! 👋
+# hi there, i'm a dotnet developer!
 
 ### 🛠️ tech stack / tools
 * **linguagens:** c# (.net)

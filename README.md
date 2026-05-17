@@ -7,8 +7,8 @@
 
 ### 🏗️ prática:
 * **[programação orientada a objetos](https://github.com/davicarb/exercicios_poo_csharp)**
-* **[projetos console completo em csharp](https://github.com/davicarb/console.logic.chsarp)**
-* **[exercicios em csharp no leetcode](https://github.com/davicarb/leetcode-chsarp)**
+* **[projetos console em csharp](https://github.com/davicarb/console.logic.chsarp)**
+* **[leetcode csharp](https://github.com/davicarb/leetcode-chsarp)**
 ---
 
 ### 📖 metodologia de aprendizado // learning method

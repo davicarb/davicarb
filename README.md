@@ -9,8 +9,3 @@
 * **[programação orientada a objetos](https://github.com/davicarb/exercicios_poo_csharp)**
 * **[projetos console em csharp](https://github.com/davicarb/console.logic.chsarp)**
 * **[leetcode csharp](https://github.com/davicarb/leetcode-chsarp)**
----
-
-### 📖 metodologia de aprendizado // learning method
-* project based learning (base de projetos e sistemas automatizados)
-* leetcode (base algorítmica, estrutura de dados e lógica computacional)

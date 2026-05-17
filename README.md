@@ -1,5 +1,3 @@
-# hi there, i'm a dotnet developer!
-
 ### 🛠️ stack
 * **linguagens:** c# (.net)
 * **databases:** sqlite, json (persistência de arquivos)

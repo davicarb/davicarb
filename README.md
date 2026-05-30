@@ -10,7 +10,7 @@ desenvolvedor de software com foco em csharp e automação de processos.
 ---
 
 ### 📁 projects
-**[agrotrack v2](https://github.com/davicarb/agrotrack_v2)** — rpa que rastreia contêineres agrícolas e exporta dados para o excel automaticamente. redução de 96% no tempo de trabalho.
+**[agrotrack v2](https://github.com/davicarb/agrotrack_v2)**
 
 ---
 

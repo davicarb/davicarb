@@ -1,7 +1,7 @@
 ### 🛠️ stack
 * **linguagens:** c# (.net)
 * **databases:** sqlite, json (persistência de arquivos)
-* 
+  
 * **ferramentas:**
 * git/github;
 * db browser for sqlite ado.net (manual database integration);

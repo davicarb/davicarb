@@ -1,15 +1,20 @@
-### 🛠️ stack
+olá! sou o davi e sou um desenvolvedor de software.
+hello there! i'm davi and i'm a software developer.
+
+### 🛠️ my tech stack
 
 **linguagens**
-`c#` `.net`
+`c#`
+
 **dados**
 `sqlite` `json` `ado.net`
+
 **ferramentas**
 `git` `github` `visual studio` `vs code` `db browser for sqlite` `power automate` `power bi`
 
 ---
 
-### 🏗️ prática
+### 🏗️ prática de programação
 
 | repositório | foco |
 |---|---|
@@ -19,7 +24,7 @@
 
 ---
 
-### 🤖 projetos
+### 📁 projetos próprio
 
 | projeto | descrição | stack |
 |---|---|---|

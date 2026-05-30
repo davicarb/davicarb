@@ -2,10 +2,8 @@
 
 **linguagens**
 `c#` `.net`
-
 **dados**
 `sqlite` `json` `ado.net`
-
 **ferramentas**
 `git` `github` `visual studio` `vs code` `db browser for sqlite` `power automate` `power bi`
 

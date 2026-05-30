@@ -1,5 +1,5 @@
-olá! sou o davi e sou um desenvolvedor de software.
-hello there! i'm davi and i'm a software developer.
+### olá! sou o davi e sou um desenvolvedor de software.
+### hello there! i'm davi and i'm a software developer.
 
 ### 🛠️ my tech stack
 
@@ -24,7 +24,7 @@ hello there! i'm davi and i'm a software developer.
 
 ---
 
-### 📁 projetos próprio
+### 📁 projetos próprios
 
 | projeto | descrição | stack |
 |---|---|---|

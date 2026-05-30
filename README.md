@@ -1,29 +1,18 @@
-### hello there! i'm davi and i'm a software developer.
-### 🛠️ my tech stack
+### hello there, i'm davi. 👋
 
-**linguagens**
-`c#`
-
-**dados**
-`sqlite` `json` `ado.net`
-
-**ferramentas**
-`git` `github` `visual studio` `vs code` `db browser for sqlite` `power automate` `power bi`
+desenvolvedor de software com foco em csharp e automação de processos.
 
 ---
 
-### 🏗️ prática de programação
-
-| repositório | foco |
-|---|---|
-| [exercicios_poo_csharp](https://github.com/davicarb/exercicios_poo_csharp) | programação orientada a objetos |
-| [console.logic.csharp](https://github.com/davicarb/console.logic.chsarp) | projetos console em c# |
-| [leetcode-csharp](https://github.com/davicarb/leetcode-chsarp) | resolução de problemas algorítmicos |
+### 🛠️ stack
+`c#` `sqlite` `ado.net` `git` `power automate` `power bi`
 
 ---
 
-### 📁 projetos próprios
+### 📁 projects
+**[agrotrack v2](https://github.com/davicarb/agrotrack_v2)** — rpa que rastreia contêineres agrícolas e exporta dados para o excel automaticamente.
 
-| projeto | descrição | stack |
-|---|---|---|
-| [agrotrack v2](https://github.com/davicarb/agrotrack_v2) | rpa de rastreamento de contêineres agrícolas com exportação para excel | `html/js` `power automate` `excel` |
+---
+
+### 🏗️ practice
+**[poo exercises](https://github.com/davicarb/exercicios_poo_csharp)** · **[console projects](https://github.com/davicarb/console.logic.chsarp)** · **[leetcode](https://github.com/davicarb/leetcode-chsarp)**

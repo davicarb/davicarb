@@ -10,9 +10,9 @@ desenvolvedor de software com foco em csharp e automação de processos.
 ---
 
 ### 📁 projects
-**[agrotrack v2](https://github.com/davicarb/agrotrack_v2)** -- powerautomate rpa que automatiza processos repetitivos com ganho de 96% no tempo
+**[agrotrack v2](https://github.com/davicarb/agrotrack_v2)** Power Automate RPA que automatiza processos repetitivos com ganho de 96% no tempo
 
-**[multibanking](https://github.com/davicarb/exercicios_poo_csharp/tree/main/2_heranca/3%20-%20multibanking)** -- console fintech fictícia
+**[multibanking](https://github.com/davicarb/exercicios_poo_csharp/tree/main/2_heranca/3%20-%20multibanking)** Console fintech fictícia
 
 ---
 

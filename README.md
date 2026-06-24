@@ -16,4 +16,4 @@ desenvolvedor de software com foco em csharp e automação de processos.
 ---
 
 ### 🏗️ practice
-**[poo exercises](https://github.com/davicarb/exercicios_poo_csharp)** · **[console projects](https://github.com/davicarb/console.logic.chsarp)** · **[leetcode](https://github.com/davicarb/leetcode-chsarp)**
+**[csharp](https://github.com/davicarb/csharp-studies)** · **[console projects](https://github.com/davicarb/console.logic.chsarp)** · **[leetcode](https://github.com/davicarb/leetcode-chsarp)**

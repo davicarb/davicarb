@@ -1,10 +1,10 @@
 ### hello there, i'm davi. 👋
-desenvolvedor de software com foco em csharp e automação de processos.
+desenvolvedor de software em formação.
 
 ---
 
 ### 🛠️ stack
-`c#` `sqlite` `ado.net` `git` `power automate` `power bi`
+`c#` `sqlite` `ado.net` `git` `power automate` `power bi` `html` `css`
 
 ---
 

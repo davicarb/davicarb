@@ -4,7 +4,7 @@ desenvolvedor de software em formação.
 ---
 
 ### 🛠️ stack
-`c#` `sqlite` `ado.net` `git` `power automate` `power bi` `html` `css`
+`c#/dotnet` `sql` `ado.net` `git` `power automate` `power bi` `html` `css`
 
 ---
 

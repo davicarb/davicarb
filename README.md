@@ -1,10 +1,10 @@
 ### hello there, i'm davi. 👋
-desenvolvedor de software em formação.
+desenvolvedor de software / maths.
 
 ---
 
 ### 🛠️ stack
-`c#/dotnet` `sql` `ado.net` `git` `power automate` `power bi` `html` `css`
+`c#/dotnet` `c++` `javascript` `sql`
 
 ---
 
